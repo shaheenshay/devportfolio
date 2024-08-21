@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/drei": "^9.109.5",
+    "@react-three/drei": "^9.111.2",
     "@react-three/fiber": "^8.17.5",
     "@sentry/nextjs": "^8.26.0",
     "clsx": "^2.1.1",

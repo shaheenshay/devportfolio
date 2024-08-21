@@ -1,6 +1,6 @@
 import React from "react";
 import { Spotlight } from "./ui/Spotlight";
-import { TextGenerateEffect } from "./ui/TextGenrateEffect";
+import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 
@@ -38,7 +38,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Shaheen Ahad, a Web Application Developer from India.
+            Hi, I&apos;m Shaheen Ahad, a <span className="text-purple"> Web Application Developer</span> from India.
           </p>
 
           <a href="#about">

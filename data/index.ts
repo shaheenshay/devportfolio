@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently developing a CRM Application for a Educational institution",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -176,21 +176,21 @@ export const navItems = [
       title: "Junior System Administrator",
       desc: "Assisted in monitoring and responding to system events using CPanel and WHM.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "/exp2.svg",
     },
     {
       id: 2,
       title: "Web Application Developer",
       desc: "Designed and developed CRM application for a Education Institution using PHP and Laravel.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
     },
     {
       id: 3,
       title: "Wordpress Developer",
       desc: "Developed and deployed various projects for multiple clients across the globe.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
+      thumbnail: "/wordpress1.svg",
     },
     {
       id: 4,
