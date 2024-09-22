@@ -98,9 +98,9 @@ export const navItems = [
       id: 4,
       title: "E-Commerce App with CMS",
       des: "A powerful e-commerce webshop with an admin dashboard, built with Next.js 14, TypeScript, Stripe, and Payload CMS, offering seamless payment processing and efficient content management.",
-      img: "/p4.svg",
+      img: "/p4.png",
       iconLists: ["/next.svg", "/ts.svg", "/sass.svg", "/stripe.svg"],
-      link: "https://github.com/shaheenshay/E-Commerce-CMS",
+      link: "https://github.com/shaheenshay/lavender-estore",
     },
   ];
   
@@ -205,14 +205,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link: "https://github.com/shaheenshay",
+      link: "https://github.com/shaheenshay/",
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/insta.svg",
+      link: "https://instagram.com/shaheen_shay/",
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/shaheen-ahad/"
     },
   ];
